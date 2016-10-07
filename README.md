@@ -1,0 +1,2 @@
+# ninjs-proto
+prototyping mod
